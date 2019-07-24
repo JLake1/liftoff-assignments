@@ -27,12 +27,18 @@ Owner login: Truck owners will be able to register, login, and setup a profile p
 Create a truck "event": Owners will be able to submit the location that their truck is serving on a given day, along with start and end time. This will be displayed on both their profile page (list of current and upcoming events) and on the main feed.
 
 ### Technologies
+
 React
+
 HTML/CSS
+
 MySQL
+
 Google Maps API
 
 ### What I'll Have to Learn
+
 React
+
 Google Maps API
 
