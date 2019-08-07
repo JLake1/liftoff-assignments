@@ -28,17 +28,19 @@ Create a truck "event": Owners will be able to submit the location that their tr
 
 ### Technologies
 
-React
+- React
 
-HTML/CSS
+- HTML/CSS
 
-MySQL
+- MySQL
 
-Google Maps API
+- Java
+
+- Spring Boot
 
 ### What I'll Have to Learn
 
-React
+- React
 
-Google Maps API
+- Spring Boot REST API
 
