@@ -10,10 +10,14 @@ For this assignment you will need to upload your resume, and provide links to yo
 https://github.com/JLake1
  
 ### LinkedIn
-- COMING SOON
+https://www.linkedin.com/in/joe-lake-1b032131/
+- [IN PROGRESS]
 
 ### Resume
-- COMING SOON
+https://github.com/JLake1/liftoff-assignments/blob/master/C1-Online_Profiles/Joseph_Lake-Resume(2019).pdf
+- [IN PROGRESS]
+
+
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
