@@ -14,7 +14,7 @@ https://www.linkedin.com/in/joe-lake-1b032131/
 - [IN PROGRESS]
 
 ### Resume
-https://github.com/JLake1/liftoff-assignments/blob/master/C1-Online_Profiles/Joseph_Lake-Resume(2019).pdf
+https://github.com/JLake1/liftoff-assignments/blob/master/C1-Online_Profiles/Joe-Lake_Resume.pdf
 - [IN PROGRESS]
 
 
