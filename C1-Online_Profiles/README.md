@@ -14,8 +14,7 @@ https://www.linkedin.com/in/joe-lake-1b032131/
 - [IN PROGRESS]
 
 ### Resume
-https://github.com/JLake1/liftoff-assignments/blob/master/C1-Online_Profiles/Joe-Lake_Resume.pdf
-- [IN PROGRESS]
+https://github.com/JLake1/liftoff-assignments/blob/master/C1-Online_Profiles/Joe-Lake-Resume.pdf
 
 
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
